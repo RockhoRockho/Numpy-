@@ -1,4 +1,4 @@
-# Numpy-
+# Numpy-study
 Numpy 정리 및 복습
 ==
 2021-09-01
