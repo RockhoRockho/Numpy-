@@ -29,7 +29,7 @@ numpy 유튜브 정리 완료
 
 ---
 
-## 2021-09-10
+## 복습 1일차 2021-09-10
 
 - Numpy 특징 복습
 - 배열생성 복습(`array()`)
@@ -47,3 +47,15 @@ numpy 유튜브 정리 완료
 - 배열 추가 복습(`append()`)
 - 배열 연결 복습(`concatenate()`, `vstack()`, `hstack()`, `dstack()`, `stack()`)
 - 배열 분할 복습(`split()`, `vsplit()`, `hsplit()`, `dsplit()`)
+
+-----
+
+## 복습 2일차 2021-09-11
+
+- 배열 연산 학습
+    - 브로드 캐스팅, 산술연산, 절대값 함수(`absolute()`, `abs()`), 제곱/제곱근 함수(`square`, `sqrt`), 지수와 로그 함수, 삼각함수
+    -  집계함수(`sum()`, `cumsum()`, `diff()`, `prod()`, `cumprod()`, `dot()`/`matmul()`, `tensordot()`, `cross()`, `inner()`/`outer()`, `mean()`, `std()`, `var()`, `min()`, `max()`, `argmin()`, `argmax()`, `median()`, `percentile()`, `any()`, `all()`))
+    -  비교연산, 불리언 연산자
+- 배열 정렬 학습(`partition()`, `sort()`)
+- 배열 입출력 학습
+
