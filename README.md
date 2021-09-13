@@ -59,3 +59,14 @@ numpy 유튜브 정리 완료
 - 배열 정렬 학습(`partition()`, `sort()`)
 - 배열 입출력 학습
 
+## 빅데이터 수업 2021-09-13
+
+- Numpy 입출력 학습
+    - 데모배열 후 저장(`np.save()`, `np.savez()`, `np.load()`, `np.savetxt()`, `np.loadtxt()`
+- 배열 연산 학습
+    - 산술학습 학습(`np.add()`, `np.subtract()`, `np.multiply()`, `np.divide()`, `np.exp()`, `np.dot()`, `np.sqrt()`, `np.sin()`, `np.cos()`, `np.tan()`, `np.log()`)
+    - 비교연산(`equal()`,
+    - 집계 함수(`sum()`, `np.sum()`, `min()`, `np.min()`, `max()`, `np.max()`, `np.sum()`, `np.cumsum()`, `np.mean()`, `mean()`, `np.median()`, `np.corrcoef()`, `np.std()`, `std()`)
+    - 브로드 캐스팅(다대일 연산), 벡터연산
+    - 배열 복사(`np.copy()`)
+- 배열 정렬 학습(`partition()`, `sort()`)
